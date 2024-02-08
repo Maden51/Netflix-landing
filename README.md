@@ -1,3 +1,3 @@
-## Netflix landing page
+### Netflix landing page
 
-#practice with grid layout.
+##practice with grid layout.
